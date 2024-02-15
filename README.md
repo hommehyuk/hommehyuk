@@ -1,4 +1,4 @@
-## 📞 Contact 📞
+## 📞 Contact 
 <span>
   <a href="bin6827@Gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
