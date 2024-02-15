@@ -11,6 +11,12 @@
     <img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white"/>
   </a>
 </span>
+
+<span>
+  <a href="https://www.notion.so/Flutter-Widget-c17031b4528d4d5a987d32c526a83028?pvs=4">
+    <img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white"/>
+  </a>
+</span>
 <!--
 **hommehyuk/hommehyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
