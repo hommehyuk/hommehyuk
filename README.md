@@ -1,14 +1,21 @@
-## Dev's language
+## Dev's Language
 <span>
   <a href="https://github.com/hommehyuk">
     <img src="https://img.shields.io/badge/dart-0175C2?style=plastic&logo=dart&logoColor=white"/>
   </a>
 </span>
 
-## Dev's framework
+## Dev's Framework
 <span>
   <a href="https://github.com/hommehyuk">
     <img src="https://img.shields.io/badge/flutter-02569B?style=plastic&logo=flutter&logoColor=white"/>
+  </a>
+</span>
+
+## Dev's Tool
+<span>
+  <a href="https://github.com/hommehyuk">
+    <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/>
   </a>
 </span>
 
