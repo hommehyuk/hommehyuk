@@ -1,10 +1,9 @@
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:bin6827@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
+<span>
+  <a href="bin6827@Gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
+</span>
 <!--
 **hommehyuk/hommehyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
