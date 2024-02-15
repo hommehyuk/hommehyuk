@@ -15,7 +15,7 @@
 ## Dev's Tool
 <span>
   <a href="https://github.com/hommehyuk">
-    <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/>
   </a>
 </span>
 
