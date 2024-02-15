@@ -1,14 +1,14 @@
 ## Dev's Language
 <span>
   <a href="https://github.com/hommehyuk">
-    <img src="https://img.shields.io/badge/dart-0175C2?style=plastic&logo=dart&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white"/>
   </a>
 </span>
 
 ## Dev's Framework
 <span>
   <a href="https://github.com/hommehyuk">
-    <img src="https://img.shields.io/badge/flutter-02569B?style=plastic&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white"/>
   </a>
 </span>
 
