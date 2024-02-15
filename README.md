@@ -5,11 +5,10 @@
   </a>
 </span>
 
-
-## Contact 
+## Dev's framework
 <span>
-  <a href="mailto:bin6827@Gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
+  <a href="https://github.com/hommehyuk">
+    <img src="https://img.shields.io/badge/flutter-02569B?style=plastic&logo=flutter&logoColor=white"/>
   </a>
 </span>
 
@@ -23,6 +22,13 @@
 <span>
   <a href="https://www.notion.so/Flutter-Widget-c17031b4528d4d5a987d32c526a83028?pvs=4">
     <img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white"/>
+  </a>
+</span>
+
+## Contact 
+<span>
+  <a href="mailto:bin6827@Gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
 <!--
